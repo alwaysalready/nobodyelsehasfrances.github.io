@@ -1,0 +1,51 @@
+---
+id: 235
+title: 'The Highwayman'
+date: '2016-07-03T08:03:06+01:00'
+author: 'Alex Taylor'
+layout: revision
+guid: 'http://nobodyelsehasfrances.fr/2016/07/227-revision-v1/'
+permalink: '/?p=235'
+---
+
+<div style="font-size: smaller;">By Alfred Noise</div>   
+THE road was a ribbon of moonlight over the purple moor,  
+And the highwayman came riding—  
+Riding—riding—  
+The highwayman came riding, up to the old inn-door.
+
+He’d a French cocked-hat on his forehead, a bunch of lace at his chin,  
+A coat of the claret velvet, and breeches of brown doe-skin.  
+They fitted with never a wrinkle. His boots were up to the thigh.  
+And he rode with a jewelled twinkle,  
+His pistol butts a-twinkle,  
+His rapier hilt a-twinkle, under the jewelled sky.
+
+Over the cobbles he clattered and clashed in the dark inn-yard.  
+He tapped with his whip on the shutters, but all was locked and barred.  
+He whistled a tune to the window, and who should be waiting there  
+But the landlord’s black-eyed daughter,  
+Bess, the landlord’s daughter,  
+Plaiting a dark red love-knot into her long black hair.  
+And dark in the dark old inn-yard a stable-wicket creaked  
+Where Tim the ostler listened. His face was white and peaked.  
+His eyes were hollows of madness, his hair like mouldy hay,  
+But he loved the landlord’s daughter,  
+The landlord’s red-lipped daughter.  
+Dumb as a dog he listened, and he heard the robber say—
+
+“One kiss, my bonny sweetheart, I’m after a prize to-night,  
+But I shall be back with the yellow gold before the morning light;  
+Yet, if they press me sharply, and harry me through the day,  
+Then look for me by moonlight,  
+Watch for me by moonlight,  
+I’ll come to thee by moonlight, though hell should bar the way.”
+
+He rose upright in the stirrups. He scarce could reach her hand,  
+But she loosened her hair in the casement. His face burnt like a brand  
+As the black cascade of perfume came tumbling over his breast;  
+And he kissed its waves in the moonlight,  
+(O, sweet black waves in the moonlight!)  
+Then he tugged at his rein in the moonlight, and galloped away to the west.
+
+<div style="font-size: smaller;">This was a poem Frances loved and regularly used to read to Gregory and Stephen.</div>
